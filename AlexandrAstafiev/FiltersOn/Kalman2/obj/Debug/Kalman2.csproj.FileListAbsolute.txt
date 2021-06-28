@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\bin\Debug\Kalman2.exe.config
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\bin\Debug\Kalman2.exe
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\bin\Debug\Kalman2.pdb
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\obj\Debug\Kalman2.csprojAssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\obj\Debug\Kalman2.Form1.resources
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\obj\Debug\Kalman2.Properties.Resources.resources
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\obj\Debug\Kalman2.csproj.GenerateResource.cache
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\obj\Debug\Kalman2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\obj\Debug\Kalman2.exe
+C:\Users\Пользователь\Source\Repos\AlexandrAstafiev\FiltersOn\Kalman2\obj\Debug\Kalman2.pdb
